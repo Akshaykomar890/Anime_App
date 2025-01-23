@@ -1,5 +1,13 @@
 # Anime App 
 
+##Screenshots
+![WhatsApp Image 2025-01-23 at 4 14 21 PM](https://github.com/user-attachments/assets/c4263901-af30-422f-b625-da6da7b730ef)
+![WhatsApp Image 2025-01-23 at 4 14 20 PM](https://github.com/user-attachments/assets/6ecaef68-cd0a-49a0-ab1f-7fb2916bfff2)
+![WhatsApp Image 2025-01-23 at 4 14 21 PM (1)](https://github.com/user-attachments/assets/eadffbe4-825d-49a3-afd5-1ce79f341186)
+
+
+
+
 
 ## Features
 
