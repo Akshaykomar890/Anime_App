@@ -1,0 +1,42 @@
+package com.example.anime_app.core.data.remote.response
+
+
+
+data class DataDto(
+    val aired: AiredDto?,
+    val airing: Boolean?,
+    val approved: Boolean?,
+    val background: String?,
+    val broadcast: BroadcastDto?,
+    val demographics: List<DemographicDto>?,
+    val duration: String?,
+    val episodes: Int?,
+    val explicit_genres: List<Any>?,
+    val favorites: Int?,
+    val genres: List<GenreDto>?,
+    val images: ImagesDto?,
+    val licensors: List<LicensorDto>?,
+    val mal_id: Int?,
+    val members: Int?,
+    val popularity: Int?,
+    val producers: List<ProducerDto>?,
+    val rank: Int?,
+    val rating: String?,
+    val score: Double?,
+    val scored_by: Int?,
+    val season: String?,
+    val source: String?,
+    val status: String?,
+    val studios: List<StudioDto>?,
+    val synopsis: String?,
+    val themes: List<ThemeDto>?,
+    val title: String?,
+    val title_english: String?,
+    val title_japanese: String?,
+    val title_synonyms: List<String>?,
+    val titles: List<TitleDto>?,
+    val trailer: TrailerDto?,
+    val type: String?,
+    val url: String?,
+    val year: Int?
+)
